@@ -21,6 +21,5 @@ build = {
    type = "builtin",
    modules = {
       ["vexilla_client"] = "vexilla/client.lua"
-   },
-   copy_directories = { "test" }
+   }
 }
